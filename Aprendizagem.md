@@ -1,0 +1,24 @@
+<img src="https://img.shields.io/static/v1?label=Rotina&message=Estudos&color=purple&style=for-the-badge"/>
+
+# Planejamento de Aprendizagem
+#### Criar um planejamento de estudos para Análise de dados e programação;
+
+### Principais Tópicos:
+- [X] Excel - VBA
+- [X] Git e GitHub
+- [ ] Power BI
+- [ ] Python
+- [ ] SQL
+
+#### Semana 1 (26/06 a 02/06)  - Power BI
+- Teoria
+- Desafios
+- Fazer 1 Projeto de Análise e Dashboard
+
+#### O que foi aprendido: 
+> Capacidades desenvolvidas:
+
+> Gostei:
+
+> Faltou:
+
