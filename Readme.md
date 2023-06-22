@@ -13,7 +13,7 @@
 #### Semana 1 (26/06 a 02/06)  - Power BI
 - Teoria
 - Desafios
-- Fazer 1 Projeto de Análise e Dashboard
+- Projeto 
 
 #### O que foi aprendido: 
 > Capacidades desenvolvidas:
