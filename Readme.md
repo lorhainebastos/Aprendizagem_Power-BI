@@ -10,7 +10,7 @@
 - [ ] Python
 - [ ] SQL
 
-#### Semana 1 (26/06 a 02/06)  - Power BI
+#### Power BI
 - Teoria
 - Desafios
 - Projeto 
