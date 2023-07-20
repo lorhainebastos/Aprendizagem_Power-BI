@@ -3,7 +3,7 @@
 ## Aprendizagem - Power BI
 #### Planejamento de estudos para criação de relatórios no Power BI;
 
-### Tópicos:
+### Tópicos de estudos:
 - [X] Excel - VBA
 - [X] Git e GitHub
 - [ ] Power BI
