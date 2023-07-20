@@ -1,14 +1,16 @@
 <img src="https://img.shields.io/static/v1?label=Rotina&message=Estudos&color=purple&style=for-the-badge"/>
 
-# Planejamento de Aprendizagem
-#### Criar um planejamento de estudos para Análise de dados e programação;
+## Aprendizagem - Power BI
+#### Planejamento de estudos para criação de relatórios no Power BI;
 
-### Principais Tópicos:
+### Tópicos:
 - [X] Excel - VBA
 - [X] Git e GitHub
 - [ ] Power BI
-- [ ] Python
+- [ ] Bancos de dados
 - [ ] SQL
+- [ ] Estatística descritiva
+- [ ] Python
 
 #### Power BI
 - Teoria
