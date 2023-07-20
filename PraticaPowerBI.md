@@ -10,3 +10,8 @@ entrega?
 5. Quais países tiveram maior média de valor de venda? (mapa)
 
 ![Lab 1](https://github.com/lorhainebastos/aprendizagem/assets/136771306/5a7cb156-9bc1-42c4-8485-9b2c5ec53543)
+
+
+## Laboratório Prático 2: Dashboard de Vendas, Custo, Margem de Lucro e KPI
+### Trabalhar com modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e introdução ao DAX.
+
