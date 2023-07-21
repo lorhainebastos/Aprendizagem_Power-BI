@@ -18,5 +18,8 @@ entrega?
 2. Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? (gráfico treemap).
 3. A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
 4. Considere que o lucro é equivalente a: valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio?
-5. Qual foi o comportamento da margem de lucro ao longo do tempo? Considere amargem de lucro como o lucro dividido pelo valor venda.
+5. Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o lucro dividido pelo valor venda.
+
+![lab 2](https://github.com/lorhainebastos/Aprendizagem_Power-BI/assets/136771306/187f11b5-cee0-4b4a-8424-f69c5e6a74b9)
+
 
