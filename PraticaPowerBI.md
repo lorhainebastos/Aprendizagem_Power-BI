@@ -22,4 +22,8 @@ entrega?
 
 ![lab 2](https://github.com/lorhainebastos/Aprendizagem_Power-BI/assets/136771306/187f11b5-cee0-4b4a-8424-f69c5e6a74b9)
 
+## Laboratório Prático 3: Balanço Patrimonial com Visual de Matriz 
+### Representar um Balanço Patrimonial no Power BI explorando as funcionalidades do visual de Matriz.
+
+
 
